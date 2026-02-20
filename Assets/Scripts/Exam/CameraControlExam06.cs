@@ -7,6 +7,7 @@ public class CameraControlExam06 : MonoBehaviour
     public float offset;
     public Camera targetCamera;
 
+    
     // Update is called once per frame
     void LateUpdate()
     {
@@ -14,5 +15,6 @@ public class CameraControlExam06 : MonoBehaviour
         Vector3 player2Pos = player2.transform.position;
 
         // Student code ...
+        
     }
 }
