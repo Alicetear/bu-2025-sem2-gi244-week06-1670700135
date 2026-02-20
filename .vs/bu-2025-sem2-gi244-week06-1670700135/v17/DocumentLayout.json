@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3FF10019-7BE9-C35E-32C6-C94D38E754BF}|Assembly-CSharp.csproj|d:\\1670700135\\exam\\bu-2025-sem2-gi244-week06-1670700135\\assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF10019-7BE9-C35E-32C6-C94D38E754BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF10019-7BE9-C35E-32C6-C94D38E754BF}|Assembly-CSharp.csproj|D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF10019-7BE9-C35E-32C6-C94D38E754BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3FF10019-7BE9-C35E-32C6-C94D38E754BF}|Assembly-CSharp.csproj|d:\\1670700135\\exam\\bu-2025-sem2-gi244-week06-1670700135\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FF10019-7BE9-C35E-32C6-C94D38E754BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3FF10019-7BE9-C35E-32C6-C94D38E754BF}|Assembly-CSharp.csproj|D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FF10019-7BE9-C35E-32C6-C94D38E754BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FF10019-7BE9-C35E-32C6-C94D38E754BF}|Assembly-CSharp.csproj|D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FF10019-7BE9-C35E-32C6-C94D38E754BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerExam05.cs",
+              "DocumentMoniker": "D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
+              "ToolTip": "D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:51:51.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerControllerExam03.cs",
               "DocumentMoniker": "D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
               "ToolTip": "D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
               "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T09:02:46.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PlayerControllerExam02.cs",
               "DocumentMoniker": "D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T08:58:38.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T08:58:38.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DestroyOutOfBound.cs",
               "DocumentMoniker": "D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\Assets\\Scripts\\DestroyOutOfBound.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBound.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBound.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T08:41:28.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T08:41:28.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SpawnManager.cs",
               "DocumentMoniker": "D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\Assets\\Scripts\\SpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T08:31:11.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T08:31:11.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GameState.cs",
               "DocumentMoniker": "D:\\1670700135\\Exam\\bu-2025-sem2-gi244-week06-1670700135\\Assets\\Scripts\\GameState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
